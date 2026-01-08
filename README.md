@@ -13,13 +13,13 @@ C언어로 직접 구현한 암호화 모듈(AES, ARIA, SHA)을 활용하여, Wi
 ---
 
 ## 📂 프로젝트 구조
-my_secure_tcp/
-├── crypt/                # 암호화 도메인 (AES, ARIA, SHA)
-├── network/              # 네트워크 통신 모듈 (TCP Server/Client)
-├── src/                  # 메인 실행 소스 (server_main.c, client_main.c)
-├── tests/                # 단위 테스트 코드
-├── CMakeLists.txt        # 전체 빌드 설정
-└── README.md             # 프로젝트 설명서
+my_secure_tcp/  
+├── crypt/                # 암호화 도메인 (AES, ARIA, SHA)  
+├── network/              # 네트워크 통신 모듈 (TCP Server/Client)  
+├── src/                  # 메인 실행 소스 (server_main.c, client_main.c)  
+├── tests/                # 단위 테스트 코드  
+├── CMakeLists.txt        # 전체 빌드 설정  
+└── README.md             # 프로젝트 설명서  
 
 ---
 
