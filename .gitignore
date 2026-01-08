@@ -1,0 +1,49 @@
+# === Build Outputs ===
+# 빌드 결과물 폴더 전체 무시
+build/
+bin/
+out/
+
+# 실행 파일 및 라이브러리 (Windows, Linux, macOS)
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+
+# === Compilation Artifacts ===
+# 컴파일 과정에서 생성되는 중간 파일들
+*.o
+*.obj
+*.i
+*.s
+
+# === CMake Internal Files ===
+# CMake가 내부적으로 생성하는 설정 및 캐시 파일
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.ninja
+*.ninja_deps
+*.ninja_log
+
+# === Editor & OS Files ===
+# VS Code 설정 폴더
+.vscode/
+# Visual Studio 설정
+.vs/
+# macOS 시스템 파일
+.DS_Store
+
+# === Project Specific (TCP/Crypto) ===
+# 테스트 중 생성된 임시 데이터나 로그 파일
+*.log
+*.tmp
+# 만약 키(Key) 파일을 로컬에서 생성한다면 보안을 위해 무시
+*.pem
+*.key
+*.pub
