@@ -8,8 +8,7 @@
 ![CTR Mode Decryption](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/CTR_decryption_2.svg/600px-CTR_decryption_2.svg.png)
 
 ## Test
-![CTR Test](../../imgs/tests/ctr_test.png)
-
+![CTR Test](../../../imgs/tests/ctr_test.png)
 ## Reference
 - Document: [NIST SP 800-38A](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-38a.pdf)
 - Section: 6.5 Counter Mode (Page 13)

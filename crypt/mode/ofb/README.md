@@ -8,7 +8,7 @@
 ![OFB Mode Decryption](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OFB_decryption.svg/600px-OFB_decryption.svg.png)
 
 ## Test
-![OFB Test](../../imgs/tests/ofb_test.png)
+![OFB Test](../../../imgs/tests/ofb_test.png)
 
 ## Reference
 - Document: [NIST SP 800-38A](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-38a.pdf)

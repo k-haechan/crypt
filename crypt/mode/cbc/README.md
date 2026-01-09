@@ -8,7 +8,7 @@
 ![CBC Mode Decryption](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/CBC_decryption.svg/600px-CBC_decryption.svg.png)
 
 ## Test
-![CBC Test](../../imgs/tests/cbc_test.png)
+![CBC Test](../../../imgs/tests/cbc_test.png)
 
 ## Reference
 - Document: [NIST SP 800-38A](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-38a.pdf)

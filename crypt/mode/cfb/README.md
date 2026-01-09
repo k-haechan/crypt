@@ -8,7 +8,7 @@
 ![CFB Mode Decryption](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/CFB_decryption.svg/600px-CFB_decryption.svg.png)
 
 ## Test
-![CFB Test](../../imgs/tests/cfb_test.png)
+![CFB Test](../../../imgs/tests/cfb_test.png)
 
 ## Reference
 - Document: [NIST SP 800-38A](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-38a.pdf)

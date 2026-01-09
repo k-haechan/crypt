@@ -8,7 +8,7 @@
 ![ECB Mode Decryption](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ECB_decryption.svg/600px-ECB_decryption.svg.png)
 
 ## Test
-![ECB Test](../../imgs/tests/ecb_test.png)
+![ECB Test](../../../imgs/tests/ecb_test.png)
 
 ## Reference
 - Document: [NIST SP 800-38A](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-38a.pdf)
